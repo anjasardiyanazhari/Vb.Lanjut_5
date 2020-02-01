@@ -1,0 +1,76 @@
+c:\users\alfath.net\documents\visual studio 2010\Projects\POSRPL\POSRPL\bin\Debug\POSRPL.exe
+c:\users\alfath.net\documents\visual studio 2010\Projects\POSRPL\POSRPL\bin\Debug\POSRPL.pdb
+c:\users\alfath.net\documents\visual studio 2010\Projects\POSRPL\POSRPL\bin\Debug\POSRPL.xml
+c:\users\alfath.net\documents\visual studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.Resources.resources
+c:\users\alfath.net\documents\visual studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.vbproj.GenerateResource.Cache
+c:\users\alfath.net\documents\visual studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.exe
+c:\users\alfath.net\documents\visual studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.xml
+c:\users\alfath.net\documents\visual studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.pdb
+c:\users\alfath.net\documents\visual studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormUtama.resources
+c:\users\alfath.net\documents\visual studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormSetting.resources
+c:\users\alfath.net\documents\visual studio 2010\Projects\POSRPL\POSRPL\bin\Debug\alfathNET.dll
+c:\users\alfath.net\documents\visual studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.vbprojResolveAssemblyReference.cache
+c:\users\alfath.net\documents\visual studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormJenis.resources
+C:\Users\alfath.NET\Documents\Visual Studio 2010\Projects\POSRPL\POSRPL\bin\Debug\POSRPL.exe.config
+C:\Users\alfath.NET\documents\visual studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormInputJenis.resources
+C:\Users\alfath.NET\documents\visual studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormBarang.resources
+C:\Users\alfath.NET\documents\visual studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormInputBarang.resources
+C:\Users\alfath.NET\documents\visual studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormViewJenis.resources
+C:\Users\alfath.NET\documents\visual studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormViewMerek.resources
+C:\Users\alfath.NET\documents\visual studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormViewSatuan.resources
+C:\Users\alfath.NET\Documents\Visual Studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormTransaksiPenjualan.resources
+C:\Users\alfath.NET\documents\visual studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormInputPenjualan.resources
+C:\Users\alfath.NET\documents\visual studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.AlFathUpDownColumn.resources
+C:\Users\alfath.NET\documents\visual studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormViewPelanggan.resources
+C:\Users\alfath.NET\documents\visual studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormViewBarang.resources
+C:\Users\alfath.NET\Documents\Visual Studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.StrukJual.resources
+C:\Users\alfath.NET\Documents\Visual Studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormLogin.resources
+C:\Users\alfath.NET\Documents\Visual Studio 2010\Projects\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormInputPengguna.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\bin\Debug\POSRPL.exe.config
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.exe
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.xml
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.pdb
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.vbprojResolveAssemblyReference.cache
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormBarang.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormInputBarang.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormInputJenis.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormInputPengguna.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormJenis.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.StrukJual.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormLogin.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormSetting.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormUtama.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.AlFathUpDownColumn.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.Resources.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormInputPenjualan.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormTransaksiPenjualan.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormViewBarang.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormViewJenis.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormViewMerek.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormViewPelanggan.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormViewSatuan.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\PRAKTIKUM\UAS\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.vbproj.GenerateResource.Cache
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\bin\Debug\POSRPL.exe.config
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.exe
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.xml
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.pdb
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.vbprojResolveAssemblyReference.cache
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormBarang.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormInputBarang.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormInputJenis.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormInputPengguna.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormJenis.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.StrukJual.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormLogin.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormSetting.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormUtama.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.AlFathUpDownColumn.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.Resources.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormInputPenjualan.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormTransaksiPenjualan.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormViewBarang.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormViewJenis.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormViewMerek.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormViewPelanggan.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.FormViewSatuan.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\POSRPL\POSRPL\obj\x86\Debug\POSRPL.vbproj.GenerateResource.Cache

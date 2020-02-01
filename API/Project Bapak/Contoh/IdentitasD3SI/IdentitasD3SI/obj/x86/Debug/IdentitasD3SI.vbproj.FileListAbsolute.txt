@@ -1,0 +1,16 @@
+c:\users\alfath.net\documents\visual studio 2010\Projects\IdentitasD3SI\IdentitasD3SI\bin\Debug\IdentitasD3SI.exe
+c:\users\alfath.net\documents\visual studio 2010\Projects\IdentitasD3SI\IdentitasD3SI\bin\Debug\IdentitasD3SI.pdb
+c:\users\alfath.net\documents\visual studio 2010\Projects\IdentitasD3SI\IdentitasD3SI\bin\Debug\IdentitasD3SI.xml
+c:\users\alfath.net\documents\visual studio 2010\Projects\IdentitasD3SI\IdentitasD3SI\obj\x86\Debug\IdentitasD3SI.Resources.resources
+c:\users\alfath.net\documents\visual studio 2010\Projects\IdentitasD3SI\IdentitasD3SI\obj\x86\Debug\IdentitasD3SI.vbproj.GenerateResource.Cache
+c:\users\alfath.net\documents\visual studio 2010\Projects\IdentitasD3SI\IdentitasD3SI\obj\x86\Debug\IdentitasD3SI.exe
+c:\users\alfath.net\documents\visual studio 2010\Projects\IdentitasD3SI\IdentitasD3SI\obj\x86\Debug\IdentitasD3SI.xml
+c:\users\alfath.net\documents\visual studio 2010\Projects\IdentitasD3SI\IdentitasD3SI\obj\x86\Debug\IdentitasD3SI.pdb
+c:\users\alfath.net\documents\visual studio 2010\Projects\IdentitasD3SI\IdentitasD3SI\bin\Debug\alfathNET.dll
+c:\users\alfath.net\documents\visual studio 2010\Projects\IdentitasD3SI\IdentitasD3SI\obj\x86\Debug\IdentitasD3SI.vbprojResolveAssemblyReference.cache
+c:\users\alfath.net\documents\visual studio 2010\Projects\IdentitasD3SI\IdentitasD3SI\obj\x86\Debug\IdentitasD3SI.Formulir.resources
+c:\users\alfath.net\documents\visual studio 2010\Projects\IdentitasD3SI\IdentitasD3SI\obj\x86\Debug\IdentitasD3SI.FormView.resources
+C:\Users\alfath.NET\Documents\Visual Studio 2010\Projects\IdentitasD3SI\IdentitasD3SI\obj\x86\Debug\IdentitasD3SI.FormPrint.resources
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\IdentitasD3SI\IdentitasD3SI\obj\x86\Debug\IdentitasD3SI.exe
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\IdentitasD3SI\IdentitasD3SI\obj\x86\Debug\IdentitasD3SI.xml
+E:\KULIAH\SEMESTER 5\VB LANJUT\API\Project Bapak\Contoh\IdentitasD3SI\IdentitasD3SI\obj\x86\Debug\IdentitasD3SI.pdb
